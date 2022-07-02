@@ -1,0 +1,7 @@
+echo "test" | base64 
+dGVzdA==
+
+
+Decode base64 on linux machine
+echo "" | base64 --decode
+test
