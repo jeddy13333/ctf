@@ -1,0 +1,2 @@
+#common nmap scans
+nmap -sC -sV <machine-ip> -oN nmap.txt
